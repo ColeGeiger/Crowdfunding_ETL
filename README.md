@@ -1,7 +1,7 @@
 # Project 2 - Crowdfunding_ETL
 
 **Team Members**
--Cole Geiger,
+-Cole Geiger-,
 -Matthew Yackee,
 -Grace Long,
 -Paul Ji
