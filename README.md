@@ -1,10 +1,13 @@
 # Project 2 - Crowdfunding_ETL
 
 **Team Members**
-*Cole Geiger,
-*Matthew Yackee,
-*Grace Long,
-*Paul Ji
+-Cole Geiger,
+
+-Matthew Yackee,
+
+-Grace Long,
+
+-Paul Ji
 # **Introduction**
 In this project, we practiced building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After, we transformed the data, created four CSV files and use the CSV file data to create an ERD and a table schema. Finally, we uploaded the CSV file data into a Postgres database.
 # **Instructions**
