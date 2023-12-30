@@ -2,11 +2,11 @@
 
 **Team Members**
 
--Cole Geiger,
+-Cole Geiger
 
--Matthew Yackee,
+-Matthew Yackee
 
--Grace Long,
+-Grace Long
 
 -Paul Ji
 # **Introduction**
