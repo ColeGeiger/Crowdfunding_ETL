@@ -26,6 +26,8 @@ In this project, we practiced building an ETL pipeline using Python, Pandas, and
 
 -contacts.xlsx
 
+-All of our csv files will be under the Resources folder
+
 # **Create the Category and Subcategory DataFrames**
 Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 
